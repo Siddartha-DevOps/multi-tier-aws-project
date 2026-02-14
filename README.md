@@ -14,7 +14,7 @@ This project demonstrates deploying a simple web-appilication form on AWS using:
 See [commands.sh](./commands.sh) for step-by-step installation and configuration.
 
 ## Project Screenshots
-![Project Screenshot](screenshots/Screenshot (2130).png)
+![Project Output](screenshots/app-output.png)
 
 ## Future Enhancements
 - Add load balancer
