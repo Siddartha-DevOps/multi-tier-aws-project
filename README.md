@@ -17,9 +17,11 @@ See [commands.sh](./commands.sh) for step-by-step installation and configuration
 
 Step 1: Create an EC2 Instance, on AWS Console;
 
-FYR: find below screenshot have attached.
+![Application Output](screenshots/app-output-v2.png)
 
-![Project Output](screenshots/app-output-v2.png)
+step 2: Create a RDS Database with mysql Engine.
+
+![Database Output](screenshots/db-output.png))
 
 ## Future Enhancements
 - Add load balancer
