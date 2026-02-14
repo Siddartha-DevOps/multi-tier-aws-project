@@ -19,7 +19,7 @@ Step 1: Create an EC2 Instance, on AWS Console;
 
 FYR: find below screenshot have attached.
 
-![Project Output](screenshots/app-output.png)
+![Project Output](screenshots/app-output-v2.png)
 
 ## Future Enhancements
 - Add load balancer
