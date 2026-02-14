@@ -14,6 +14,11 @@ This project demonstrates deploying a simple web-appilication form on AWS using:
 See [commands.sh](./commands.sh) for step-by-step installation and configuration.
 
 ## Project Screenshots
+
+Step 1: Create an EC2 Instance, on AWS Console;
+
+FYR: find below screenshot have attached.
+
 ![Project Output](screenshots/app-output.png)
 
 ## Future Enhancements
