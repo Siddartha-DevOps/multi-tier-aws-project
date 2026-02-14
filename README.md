@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Tier Web Application using EC2 & RDS
 
 ## Overview
@@ -19,3 +20,6 @@ See [commands.sh](./commands.sh) for step-by-step installation and configuration
 - Add load balancer
 - Enable HTTPS with SSL
 - Auto-scaling group
+=======
+# Fresh Start
+>>>>>>> 6d7a3845ad8a6b1a5b4c28ffb744a874dd584fbf
