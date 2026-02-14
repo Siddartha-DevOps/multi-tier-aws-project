@@ -1,14 +1,14 @@
-<<<<<<< HEAD
 # Multi-Tier Web Application using EC2 & RDS
 
 ## Overview
-This project demonstrates deploying a PHP/MySQL application on AWS using:
-- EC2 for the web server
+This project demonstrates deploying a simple web-appilication form on AWS using:
+- EC2 as VM
 - RDS for the database
-- Nginx + PHP-FPM for serving dynamic content
+- Apache2 for serving content
 
 ## Architecture
-EC2 → Nginx/PHP → RDS (MySQL)
+
+
 
 ## Setup
 See [commands.sh](./commands.sh) for step-by-step installation and configuration.
